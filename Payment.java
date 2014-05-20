@@ -1,6 +1,6 @@
 /*
  * Charles Bloomfield
- * 
+ * April 2014
  * Payment class describes attributes of a single payment.
  * There are two constructors. One is passed no arguments and scans data from setter methods. The second is passed data and sets the corresponding fields to the data passed in.
  */
