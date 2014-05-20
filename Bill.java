@@ -55,6 +55,8 @@ public class Bill {
 	 * they paid and the average to the person who paid the most, adjust each person's balance, 
 	 * and continue until everything is even. 
 	 */
+	 
+	 //***** EDIT HERE *****
 	public void getMoneyOwed(){
 		double avg = getAveragePerPerson(); //store the average paid locally in avg
 		int l = 0; //left index in buyer array
